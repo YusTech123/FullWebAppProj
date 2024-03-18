@@ -1,0 +1,5 @@
+@FullWebAppProj_HostAddress = http://localhost:5058
+
+GET {{FullWebAppProj_HostAddress}}/weatherforecast/
+Accept: application/json
+###
