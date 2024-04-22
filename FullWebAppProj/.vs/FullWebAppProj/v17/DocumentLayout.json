@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\fullwebappproj\\fullwebappproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\fullwebappproj\\fullwebappproj\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|solutionrelative:controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\fullwebappproj\\fullwebappproj\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\fullwebappproj\\fullwebappproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32302795-7622-4443-B75B-95AEE9C3CAE8}|FullWebAppProj.csproj|c:\\users\\yusuf\\source\\repos\\yustech123\\fullwebappproj\\fullwebappproj\\models\\updaterolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,15 +98,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminRolesController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\AdminRolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminRolesController.cs",
@@ -114,11 +110,12 @@
               "RelativeToolTip": "Controllers\\AdminRolesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:15:49.326Z"
+              "WhenOpened": "2024-03-17T14:15:49.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RoleSeedData.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Data\\RoleSeedData.cs",
               "RelativeDocumentMoniker": "Data\\RoleSeedData.cs",
@@ -126,7 +123,8 @@
               "RelativeToolTip": "Data\\RoleSeedData.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAIwCEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:07:58.058Z"
+              "WhenOpened": "2024-03-17T14:07:58.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,7 +136,8 @@
               "RelativeToolTip": "Models\\UpdateRoleModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:02:33.779Z"
+              "WhenOpened": "2024-03-17T14:02:33.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -150,11 +149,12 @@
               "RelativeToolTip": "Models\\AssignRoleModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:01:55.882Z"
+              "WhenOpened": "2024-03-17T14:01:55.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
@@ -162,11 +162,12 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAywAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:00:47.659Z"
+              "WhenOpened": "2024-03-17T14:00:47.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -174,7 +175,8 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:46:27.532Z"
+              "WhenOpened": "2024-03-17T13:46:27.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -186,7 +188,8 @@
               "RelativeToolTip": "Services\\EmailSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:43:18.674Z"
+              "WhenOpened": "2024-03-17T13:43:18.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -198,7 +201,8 @@
               "RelativeToolTip": "Services\\EmailService.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAA1wCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:42:51.685Z"
+              "WhenOpened": "2024-03-17T13:42:51.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -210,7 +214,8 @@
               "RelativeToolTip": "Models\\AuthModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T18:05:02.847Z"
+              "WhenOpened": "2024-03-16T18:05:02.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -222,24 +227,25 @@
               "RelativeToolTip": "Migrations\\20240316180207_IdentityAdded.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T18:02:08.351Z"
+              "WhenOpened": "2024-03-16T18:02:08.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BasketsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\BasketsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BasketsController.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\BasketsController.cs",
               "RelativeToolTip": "Controllers\\BasketsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAHAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwGwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T16:45:16.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -247,7 +253,8 @@
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:44:17.202Z"
+              "WhenOpened": "2024-03-15T16:44:17.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -259,31 +266,34 @@
               "RelativeToolTip": "Controllers\\CustomersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:43:44.025Z"
+              "WhenOpened": "2024-03-15T16:43:44.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAMBYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:43:08.326Z"
+              "WhenOpened": "2024-03-15T16:43:08.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAABCwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:40:25.506Z"
+              "WhenOpened": "2024-03-15T16:40:25.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -295,11 +305,12 @@
               "RelativeToolTip": "Migrations\\20240315163748_InitialCreate.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAIwF4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:37:48.604Z"
+              "WhenOpened": "2024-03-15T16:37:48.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -307,7 +318,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T16:32:48.01Z"
+              "WhenOpened": "2024-03-15T16:32:48.01Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -319,19 +331,21 @@
               "RelativeToolTip": "Models\\DBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:27:00.073Z"
+              "WhenOpened": "2024-03-15T16:27:00.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAA0wEcAAAAbAAAA",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:23:04.022Z"
+              "WhenOpened": "2024-03-15T16:23:04.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -343,7 +357,8 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:22:59.113Z"
+              "WhenOpened": "2024-03-15T16:22:59.113Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,98 @@
+.header-container {
+    position: fixed;
+    top: 20px;
+    left: 100px;
+    padding: 80px;
+}
+
+.header-container img {
+    width: 120px;
+    height: auto;
+}
+
+.logo-search-cont {
+    position: absolute;
+    top: 20px;
+    left: -50px; /* Adjust the distance from the left edge */
+    display: flex;
+    align-items: right;
+    gap: 60 px; /* Adjust the gap between the logo and the search bar */
+}
+
+.logo-search-cont img {
+    width: 120px; /* Adjust the width of the logo */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.search-cont {
+    display: flex;
+    align-items: center;
+    width: 414px; /* Adjust the width of the search input */
+    height: 41px; /* Adjust the height of the search input */
+    background-color: #d3e88d;
+    border-radius: 20.5px;
+    padding-left: 16px;
+   color: grey;
+    
+}
+
+.search-cont.icon 
+
+{
+
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+
+}
+
+.search-cont input {
+
+    width: 350px ;
+    height: 20px;
+    border-radius: 20.5px;
+    background-color: transparent;
+
+
+}
+
+.search-cont input:focus 
+
+{
+
+    outline:none;
+
+
+}
+
+.contact-social-cont {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.contact-social-cont .contact {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjusted gap */
+}
+
+.contact-social-cont .contact p {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.contact-social-cont .contact span {
+    font-weight: 500;
+}
+
+.contact-social-cont img {
+    width: 34px;
+    height: auto;
+}
+
+
