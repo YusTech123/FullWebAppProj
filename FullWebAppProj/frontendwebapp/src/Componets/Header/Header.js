@@ -1,10 +1,8 @@
 import React from "react";
 import "./Header.css";
 import logo from "../Assets/image-1.png";
-import { BiSearchAlt } from "react-icons/bi";
-import { BiUser } from "react-icons/bi";
-import { BsHeartFill } from "react-icons/bs";
-import { BsCart2 } from "react-icons/bs";
+import { BiSearchAlt, BiUser } from "react-icons/bi";
+import { BsHeartFill, BsCart2 } from "react-icons/bs";
 import callicon from "../Assets/Call icon.png";
 
 const Header = () => {
@@ -12,7 +10,7 @@ const Header = () => {
         <div className="header-container">
             <div className="logo-search-cont">
                 <img src={logo} alt="" />
-            </div> {/* Close logo-search-cont */}
+            </div>
             <div className='search-cont'>
                 <BiSearchAlt className="icon" />
                 <input type="text" placeholder='Search Products' />
@@ -22,14 +20,17 @@ const Header = () => {
                     <img src={callicon} alt=""/> 
                     <p>contact us  <span>+44123456789</span></p>
                 </div>
-                <div>
-                    <BiUser />
-                </div>
-                <div>
-                    <BsHeartFill />
-                </div>
-                <div>
-                    <BsCart2 />
+                
+                <div className= 'social-icon-cont'>
+                    <div className="headerIcon">
+                        <BiUser className="headerIcon -size" />
+                    </div>
+                    <div className="headerIcon">
+                        <BsHeartFill className="headerIcon -size" />
+                    </div>
+                    <div className="headerIcon">
+                        <BsCart2 className="headerIcon -size"  />
+                    </div>
                 </div>
             </div>
         </div>

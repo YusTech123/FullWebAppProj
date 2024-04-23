@@ -1,98 +1,96 @@
 .header-container {
-    position: fixed;
-    top: 20px;
-    left: 100px;
-    padding: 80px;
-}
-
-.header-container img {
-    width: 120px;
-    height: auto;
+    margin: 5px 320px 0px 320px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .logo-search-cont {
-    position: absolute;
-    top: 20px;
-    left: -50px; /* Adjust the distance from the left edge */
     display: flex;
-    align-items: right;
-    gap: 60 px; /* Adjust the gap between the logo and the search bar */
+    align-items: center;
+    gap: 89px;
 }
 
 .logo-search-cont img {
-    width: 120px; /* Adjust the width of the logo */
-    height: auto; /* Maintain aspect ratio */
+    width: 150px;
+    height: 100px;
 }
+
 
 .search-cont {
+    width: 414px;
+    height: 41px;
+    background-color: #D3E88B;
+    border-radius: 20.5px;
     display: flex;
     align-items: center;
-    width: 414px; /* Adjust the width of the search input */
-    height: 41px; /* Adjust the height of the search input */
-    background-color: #d3e88d;
-    border-radius: 20.5px;
     padding-left: 16px;
-   color: grey;
-    
+    color: #706868;
 }
 
-.search-cont.icon 
-
-{
-
-    width: 28px;
-    height: 28px;
+.search-cont .icon {
+    width: 18px;
+    height: 18px;
     margin-right: 8px;
-
 }
 
 .search-cont input {
-
-    width: 350px ;
-    height: 20px;
+    width: 350px;
+    height: 41px;
     border-radius: 20.5px;
     background-color: transparent;
-
-
-}
-
-.search-cont input:focus 
-
-{
-
-    outline:none;
-
-
+    outline: none;
 }
 
 .contact-social-cont {
-    position: fixed;
-    top: 20px;
-    right: 20px;
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 46px;
 }
 
 .contact-social-cont .contact {
     display: flex;
     align-items: center;
-    gap: 10px; /* Adjusted gap */
+    gap: 10px;
 }
 
 .contact-social-cont .contact p {
     font-size: 18px;
     font-weight: 600;
-    margin: 0;
+    margin-left: 17px;
 }
 
 .contact-social-cont .contact span {
     font-weight: 500;
 }
 
-.contact-social-cont img {
-    width: 34px;
-    height: auto;
+.contact-social-cont .contact img {
+    width: 30px; /* Adjusted width for the phone icon */
+    height: 30px; /* Adjusted height for the phone icon */
 }
 
+.social-icon-cont {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
 
+.headerIcon {
+    width: 50px; /* Adjusted width */
+    height: 30px; /* Adjusted height */
+    border-radius: 50%;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    background-color: #c4e454;
+    transition-duration: .5s;
+}
+
+.headerIcon-size {
+    width: 20px; /* Adjusted width */
+    height: 20px; /* Adjusted height */
+}
+
+.headerIcon:hover {
+    background-color: #9ebe2b;
+    transform: scale(1.1);
+}
