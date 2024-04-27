@@ -49,6 +49,18 @@ builder.Services.AddScoped<EmailService>();
 builder.Services.AddIdentity<IdentityUser, IdentityRole>()
     .AddEntityFrameworkStores<SupermarketContext>().AddDefaultTokenProviders();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReactApp",
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:3000")
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -61,6 +73,9 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.MapControllers();
+
+
+
 
 
 using (var scope = app.Services.CreateScope())
@@ -76,6 +91,9 @@ using (var scope = app.Services.CreateScope())
         // Handle exceptions here, such as logging
     }
 }
+
+app.UseCors("AllowReactApp");
+
 
 app.Run();
 
