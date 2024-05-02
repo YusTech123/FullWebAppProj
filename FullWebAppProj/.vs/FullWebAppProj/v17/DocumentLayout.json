@@ -110,8 +110,7 @@
               "RelativeToolTip": "Controllers\\AdminRolesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:15:49.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T14:15:49.326Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "Data\\RoleSeedData.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAIwCEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:07:58.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T14:07:58.058Z"
             },
             {
               "$type": "Document",
@@ -136,8 +134,7 @@
               "RelativeToolTip": "Models\\UpdateRoleModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:02:33.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T14:02:33.779Z"
             },
             {
               "$type": "Document",
@@ -149,8 +146,7 @@
               "RelativeToolTip": "Models\\AssignRoleModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:01:55.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T14:01:55.882Z"
             },
             {
               "$type": "Document",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "Controllers\\RolesController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAywAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T14:00:47.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T14:00:47.659Z"
             },
             {
               "$type": "Document",
@@ -175,8 +170,7 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:46:27.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T13:46:27.532Z"
             },
             {
               "$type": "Document",
@@ -188,8 +182,7 @@
               "RelativeToolTip": "Services\\EmailSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:43:18.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T13:43:18.674Z"
             },
             {
               "$type": "Document",
@@ -201,8 +194,7 @@
               "RelativeToolTip": "Services\\EmailService.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAA1wCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T13:42:51.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T13:42:51.685Z"
             },
             {
               "$type": "Document",
@@ -214,8 +206,7 @@
               "RelativeToolTip": "Models\\AuthModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T18:05:02.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T18:05:02.847Z"
             },
             {
               "$type": "Document",
@@ -227,8 +218,7 @@
               "RelativeToolTip": "Migrations\\20240316180207_IdentityAdded.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T18:02:08.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T18:02:08.351Z"
             },
             {
               "$type": "Document",
@@ -240,8 +230,7 @@
               "RelativeToolTip": "Controllers\\BasketsController.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAuwGwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:45:16.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:45:16.974Z"
             },
             {
               "$type": "Document",
@@ -253,8 +242,7 @@
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:44:17.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:44:17.202Z"
             },
             {
               "$type": "Document",
@@ -266,8 +254,7 @@
               "RelativeToolTip": "Controllers\\CustomersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:43:44.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:43:44.025Z"
             },
             {
               "$type": "Document",
@@ -279,8 +266,7 @@
               "RelativeToolTip": "Controllers\\OrdersController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAMBYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:43:08.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:43:08.326Z"
             },
             {
               "$type": "Document",
@@ -292,8 +278,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAABCwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:40:25.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:40:25.506Z"
             },
             {
               "$type": "Document",
@@ -305,8 +290,7 @@
               "RelativeToolTip": "Migrations\\20240315163748_InitialCreate.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAIwF4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:37:48.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:37:48.604Z"
             },
             {
               "$type": "Document",
@@ -318,8 +302,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-15T16:32:48.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:32:48.01Z"
             },
             {
               "$type": "Document",
@@ -331,8 +314,7 @@
               "RelativeToolTip": "Models\\DBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:27:00.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:27:00.073Z"
             },
             {
               "$type": "Document",
@@ -340,8 +322,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\Yusuf\\source\\repos\\YusTech123\\FullWebAppProj\\FullWebAppProj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAuwDwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T16:23:04.022Z",
@@ -357,8 +339,7 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T16:22:59.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-15T16:22:59.113Z"
             }
           ]
         }
